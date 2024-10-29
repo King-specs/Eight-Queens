@@ -22,8 +22,11 @@ The Eight Queens Problem is a classic combinatorial puzzle that involves placing
 
 
 // Skeleton Code
-#include <iostream>
-#include <vector>
+
+
+#include  iostream
+
+#include  vector
 
 using namespace std;
 
